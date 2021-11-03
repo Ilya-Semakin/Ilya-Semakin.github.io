@@ -1,2 +1,2 @@
-# Ilya-Semakin.github.io
-My_CV
+# NickZaharov.github.io
+Resume
